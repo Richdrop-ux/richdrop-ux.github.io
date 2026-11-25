@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /RHL_Final_Portfolio.zip
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /RHL_Final_Portfolio.zip
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://richdrop-ux.github.io/sitemap.xml
